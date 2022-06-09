@@ -12,4 +12,10 @@
 
 ## Results
 
+![This is an image](https://github.com/Stookhy/Pyber_Analysis/blob/main/Pyber_Summary.png?raw=true)
+
 ## Summary
+
+![This is an image](https://github.com/Stookhy/Pyber_Analysis/blob/main/Total_Fares_Per_Week.png?raw=true)
+
+![This is an image](https://github.com/Stookhy/Pyber_Analysis/blob/main/PyBer_Fare_Summary.png?raw=true)
