@@ -23,13 +23,15 @@ Urban city information shows more total drivers than rides
 *   Drivers had lowest average fares among all location types
 *   A ride in the urban city generated the lowest fare among all location types
 
+
 Rural city has least amount of total drivers
-    * Rural city has the least demand for rides
-    * Drivers in the rural city has the highest average fares
-    * A ride in the rural city is the highest among all location types
+*   Rural city has the least demand for rides
+*   Drivers in the rural city has the highest average fares
+*   A ride in the rural city is the highest among all location types
+
 
 Suburban has the second highest number of drivers
-    * Second highest average fare per ride and drivers
+*   Second highest average fare per ride and drivers
 
     * Volume of fares peak around mid to end February for all city types
     * Fare volume increases for urban and rural at the end of March, while suburban decreases slightly during this period
