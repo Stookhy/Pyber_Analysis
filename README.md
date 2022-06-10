@@ -30,9 +30,9 @@ Rural city has least amount of total drivers
 Suburban has the second highest number of drivers
 *   Second highest average fare per ride and drivers
 
-    * Volume of fares peak around mid to end February for all city types
-    * Fare volume increases for urban and rural at the end of March, while suburban decreases slightly during this period
-    * Suburban reaches high number of rides in April, while rural and urban locations decrease slightly during this period
+Volume of fares peak around mid to end February for all city types
+*   Fare volume increases for urban and rural at the end of March, while suburban decreases slightly during this period
+*   Suburban reaches high number of rides in April, while rural and urban locations decrease slightly during this period
 
 ![This is an image](https://github.com/Stookhy/Pyber_Analysis/blob/main/Pyber_Summary.png?raw=true)
 
