@@ -20,8 +20,8 @@
     Through the summary data frame and the line plot showing total weekly fares for each city type, there are distinct differences in the ride sharing data generated.
     
 Urban city information shows more total drivers than rides
-        Drivers had lowest average fares among all location types
-        A ride in the urban city generated the lowest fare among all location types
+*   Drivers had lowest average fares among all location types
+*   A ride in the urban city generated the lowest fare among all location types
 
 Rural city has least amount of total drivers
     * Rural city has the least demand for rides
