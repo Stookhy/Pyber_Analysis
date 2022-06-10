@@ -1,7 +1,6 @@
 # Pyber_Analysis
 
 ## Overview of the analysis
-
 1.	Using the anaconda-navigator to launch the jupyter notebook
 2.	Create and navigate folders path
 3.	Using pandas groupby, count and sum functions to get the total numbers of rides, drivers, and fares
@@ -11,12 +10,10 @@
 
 
 ## Purpose and Analysis
-
     The main purpose of the analysis is to highlight the total and average fares for rides and drivers for each city type. This is done by creating a line chart to display the data. The analysis also provides insight that can help the CEO address the disparity of fares and drivers across all location types.
 
 
 ## Results
-
     Through the summary data frame and the line plot showing total weekly fares for each city type, there are distinct differences in the ride sharing data generated.
     
 Urban city information shows more total drivers than rides
@@ -40,7 +37,6 @@ Suburban has the second highest number of drivers
 ![This is an image](https://github.com/Stookhy/Pyber_Analysis/blob/main/Pyber_Summary.png?raw=true)
 
 ## Summary
-
     Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
     
    1.	Increasing the number of drivers in rural cities to address any potential for driver shortages
